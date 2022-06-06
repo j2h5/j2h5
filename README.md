@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **j2h5/j2h5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,33 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 
+## Hi There 👋 
 
-<a href="https://github.com/kymkyj" target="_blank">
+<a href="https://github.com/j2h5" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://okdolmin.tistory.com/" target="_blank">
+<a href="https://j2h5.tistory.com/" target="_blank">
   <img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=blog&logoColor=white style="margin-bottom: 5px;" />
 </a>
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkymkyj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 
-
-# Hello, I'm youngmin Kim!
+# Hello, I'm kyoungjoo Lee!
 
 I'm growing developer.
-I belong to a team responsible for corporate IT. However, it is not an IT company. <br>
-So I am preparing to move to an IT company. <br>
-I am interested in learning new skills. These days, I am studying springboot and JPA, and I plan to continue studying Node.js. <br>
+I am interested in learning new skills. These days, I am studying Java, spring frame work, springboot and JPA, and I plan to continue studying Node.js. <br>
 Thank you for watching with interest.
 
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on AJ ICT corp as a Web full-stack developer.
-- 🌱 I'm currently learning Back-end Skill, Algorithm.
-- 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
+- 🌱 I'm currently learning Back-end, Frunt-end Skill, Algorithm.
+- 📝 I regularly write articles on [my blog](https://j2h5.tistory.com/). 
 <br>
 
 ### 📚 Technology Stack <br>
@@ -56,7 +51,7 @@ Thank you for watching with interest.
   <img style="margin: 10px" src="https://img.shields.io/badge/-Git-lightgrey" height="25" />
 </div>
 
-
+<!-- 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -66,6 +61,6 @@ Thank you for watching with interest.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kymkyj&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>   -->
 
 <br/> 
