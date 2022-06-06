@@ -35,7 +35,7 @@ Thank you for watching with interest.
 
 ### ✨ Summary
 
-- 🌱 I'm currently learning Back-end, Frunt-end Skill, Algorithm.
+- 🌱 I'm currently learning Back-end, Front-end Skill, Algorithm.
 - 📝 I regularly write articles on [my blog](https://j2h5.tistory.com/). 
 <br>
 
