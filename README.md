@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 # Hello, I'm kyoungjoo Lee!
 
-I'm growing developer.
-I am interested in learning new skills. These days, I am studying Java, spring frame work, springboot and JPA, and I plan to continue studying Node.js. <br>
+I'm growing developer.<br>
+I am interested in learning new skills.<br>
+These days, I am studying Java, spring frame work, springboot and JPA, and I plan to continue studying Node.js. <br>
 Thank you for watching with interest.
 
 
