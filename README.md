@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <br/><br/><br/>
 </div>
-
+<!-- 
 ### 💻 &nbsp;GitHub Analytics
 <table><tr><td valign="top" width="50%">
 
@@ -34,7 +34,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2h5&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table> 
-
+ --!>
 <br/> 
 
 ### 🤝🏻 &nbsp;Contact
