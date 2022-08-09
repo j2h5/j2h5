@@ -16,7 +16,7 @@
 ### 💻 Technology Stack <br>
 
 <div align="center">
-**Language**
+  <div align="center"><b>Language</b></div>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -30,17 +30,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <br/><br/><br/>
 </div>
-<!-- 
-### 💻 &nbsp;GitHub Analytics
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=j2h5&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2h5&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table> 
- --!>
 <br/> 
 
 ### 🤝🏻 &nbsp;Contact
