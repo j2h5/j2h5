@@ -11,7 +11,7 @@
 - 👯 팀원들과 항상 정보를 공유하고 함께 성장하는 것을 지향합니다.
 - 🌱 22.03.14 ~ 08.01 국비교육 수료 후, 프로젝트 중 부족했던 부분을 학습하며 나아가기 위해 노력중입니다.
 - 📝 꾸준히 [저의 블로그](https://j2h5.tistory.com/)를 작성중입니다.
-
+<br/><br/>
 
 ### 📚 Technology Stack <br>
 
@@ -25,14 +25,18 @@
 <br/><br/><br/>
 </div>
 
-## Github Stats  
+### 💻 &nbsp;GitHub Analytics
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kymkyj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=j2h5&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kymkyj&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2h5&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table> 
 
 <br/> 
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:oe5959@naver.com"><img src="https://img.shields.io/badge/-oe5959@naver.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jj2_h5"><img src="https://img.shields.io/badge/-@jj2h_5-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
